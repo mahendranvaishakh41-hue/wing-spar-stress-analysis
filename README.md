@@ -45,6 +45,10 @@ Single symmetric pull-up at n = 3.8, with no negative-g or gust cases yet. Lift 
 
 Planned additions: flange buckling and web shear checks, negative-g and gust load cases, comparison with XFLR5, and a fatigue life estimate (S-N curve and Miner's rule).
 
+## Why I built this
+
+After my MSc I spent some time away from engineering, and I wanted to get back into it with a project I could build myself. I am interested in aircraft wing structures, especially fatigue and damage tolerance, so I chose a wing spar. I also used this project to relearn Python from the basics. The hardest parts for me were loops and turning the lift into shear force and bending moment step by step. Next I want to add buckling checks and a fatigue life estimate.
+
 ## Author
 
 Vaishakh Mahendran, MSc Aerospace Engineering (Teesside University)
